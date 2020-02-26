@@ -2,9 +2,7 @@ import React from 'react'
 import Userinfo from './Userinfo';
 
 export default function Commentcomponent(props) {
-    // function formatDate(date) {
-    //     return date.toLocaleDateString();
-    //   }
+
     return (
       <div className="Comment">
         <Userinfo user={props.author} />
