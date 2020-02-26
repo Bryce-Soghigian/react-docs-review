@@ -14,17 +14,17 @@ function App(props) {
     },
   },{
     date: "2/25/2020",
-    text: 'I am enjoying the react docs!',
+    text: 'I love the react docs!',
     author: {
-      name: "bryce",
-      avatarUrl: 'https://avatars0.githubusercontent.com/u/49734722?s=400&v=4',
+      name: "Dan",
+      avatarUrl: 'https://avatars0.githubusercontent.com/u/810438?s=400&v=4',
     },
   },{
     date: "2/25/2020",
-    text: 'I am enjoying the react docs!',
+    text: 'I am bryces friend and think he would be a good canidate!',
     author: {
-      name: "bryce",
-      avatarUrl: 'https://avatars0.githubusercontent.com/u/49734722?s=400&v=4',
+      name: "Jacob Tharp",
+      avatarUrl: 'https://avatars1.githubusercontent.com/u/18707646?s=400&v=4',
     },
   }];
 
